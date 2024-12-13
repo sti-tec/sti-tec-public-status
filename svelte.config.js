@@ -15,9 +15,11 @@ const config = {
 			pages: 'docs',
 			assets: 'docs',
 		}),
+		appDir: "app",
 		paths: {
 			base: '/sti-tec-public-status'
 		}
+		
 	}
 };
 
