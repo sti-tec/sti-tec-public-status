@@ -13,6 +13,7 @@
 							<tr>
 								<th>Service</th>
 								<th>Status</th>
+								<th>Migration Status</th>
 							</tr>
 						</thead>
 						<tbody>
@@ -20,36 +21,24 @@
 							<tr>
 								<td>Teams</td>
 								<td><div class="badge badge-success">Operational</div></td>
+								<td><div class="badge badge-neutral badge-outline">Pending</div></td>
 							</tr>
 							<!-- row 2 -->
 							<tr>
 								<td>Outlook</td>
 								<td><div class="badge badge-success">Operational</div></td>
+								<td><div class="badge badge-neutral badge-outline">Pending</div></td>
 							</tr>
 							<!-- row 3 -->
 							<tr>
 								<td>SharePoint</td>
 								<td><div class="badge badge-success">Operational</div></td>
+								<td><div class="badge badge-neutral badge-outline">Pending</div></td>
 							</tr>
 							<tr>
 								<td>OneDrive</td>
 								<td><div class="badge badge-success">Operational</div></td>
-							</tr>
-							<tr>
-								<td>Dynamics</td>
-								<td><div class="badge badge-success">Operational</div></td>
-							</tr>
-                            <tr>
-								<td>Room Door Tablets</td>
-								<td><div class="badge badge-success">Operational</div></td>
-							</tr>
-                            <tr>
-								<td>Print Servers</td>
-								<td><div class="badge badge-success">Operational</div></td>
-							</tr>
-                            <tr>
-								<td>Surface Hub</td>
-								<td><div class="badge badge-success">Operational</div></td>
+								<td><div class="badge badge-neutral badge-outline">Pending</div></td>
 							</tr>
 						</tbody>
 					</table>
