@@ -12,7 +12,7 @@
 						<thead>
 							<tr>
 								<th>Service</th>
-								<th>Status</th>
+								<th>Current Status</th>
 								<th>Migration Status</th>
 							</tr>
 						</thead>
