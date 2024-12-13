@@ -1,11 +1,28 @@
 <section>
 	<div class="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 lg:px-8 flex justify-center">
 		<div class="space-y-4 md:space-y-8">
+			
 			<div class="max-w-xl">
 				<h1 class="text-2xl font-semibold text-gray-900 sm:text-4xl">STI-TEC Public Status</h1>
                 <div class="divider divider-neutral"></div>
 
-				<h2 class="text-2xl font-semibold text-gray-900 sm:text-2xl">Services</h2>
+				<div role="alert" class="alert alert-warning">
+					<svg
+					  xmlns="http://www.w3.org/2000/svg"
+					  class="h-6 w-6 shrink-0 stroke-current"
+					  fill="none"
+					  viewBox="0 0 24 24">
+					  <path
+						stroke-linecap="round"
+						stroke-linejoin="round"
+						stroke-width="2"
+						d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+					</svg>
+					<span class="font-bold">Warning: In anticipation of the service migration, outages are expected for all services from evening of Dec 13th 2024 to evening of Dec 15th 2024</span>
+				  </div>
+
+				
+				<h2 class="text-2xl font-semibold text-gray-900 sm:text-2xl mt-4">Services</h2>
 				<div class="overflow-x-auto">
 					<table class="table">
 						<!-- head -->
