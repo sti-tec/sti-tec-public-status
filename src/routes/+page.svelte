@@ -38,24 +38,24 @@
 							<tr>
 								<td>Teams</td>
 								<td><div class="badge badge-error">Offline</div></td>
-								<td><div class="badge badge-neutral badge-outline">In Progress</div></td>
+								<td><div class="badge badge-neutral badge-outline whitespace-nowrap">In Progress</div></td>
 							</tr>
 							<!-- row 2 -->
 							<tr>
 								<td>Outlook</td>
 								<td><div class="badge badge-error">Offline</div></td>
-								<td><div class="badge badge-neutral badge-outline">In Progress</div></td>
+								<td><div class="badge badge-neutral badge-outline whitespace-nowrap">In Progress</div></td>
 							</tr>
 							<!-- row 3 -->
 							<tr>
 								<td>SharePoint</td>
 								<td><div class="badge badge-error">Offline</div></td>
-								<td><div class="badge badge-neutral badge-outline">In Progress</div></td>
+								<td><div class="badge badge-neutral badge-outline whitespace-nowrap">In Progress</div></td>
 							</tr>
 							<tr>
 								<td>OneDrive</td>
 								<td><div class="badge badge-error">Offline</div></td>
-								<td><div class="badge badge-neutral badge-outline">In Progress</div></td>
+								<td><div class="badge badge-neutral badge-outline whitespace-nowrap">In Progress</div></td>
 							</tr>
 						</tbody>
 					</table>
@@ -117,7 +117,7 @@
 							</svg>
 						</div>
 						<div class="timeline-end timeline-box">
-							<div class="badge badge-primary badge-outline mr-1">Latest</div><div class="badge badge-neutral badge-outline">13 Dec @ 9:20pm EST</div>
+							<div class="badge badge-primary badge-outline mr-1">Latest</div><div class="badge badge-neutral badge-outline whitespace-nowrap">13 Dec @ 9:20pm EST</div>
 							Service Migration is in progress. Discontinue use of company Outlook and Teams services until we are officially cut over to our new environment. Additionally, follow transition steps emailed to you if you have not already.
 						</div>
 						<hr />
@@ -139,7 +139,7 @@
 							</svg>
 						</div>
 						<div class="timeline-end timeline-box">
-                            <div><div class="badge badge-neutral badge-outline">12 Dec @ 5:00pm EST</div></div>
+                            <div><div class="badge badge-neutral badge-outline whitespace-nowrap">12 Dec @ 5:00pm EST</div></div>
                             Final review with technical partners for Friday evening cutover to new hosting services.
                         </div>
 						<hr />
@@ -161,7 +161,7 @@
 							</svg>
 						</div>
 						<div class="timeline-end timeline-box">
-                            <div><div class="badge badge-neutral badge-outline">11 Dec @ 5:20pm EST</div></div>
+                            <div><div class="badge badge-neutral badge-outline whitespace-nowrap">11 Dec @ 5:20pm EST</div></div>
                             Transition instructions email shared with the firm.
                         </div>
 					</li>
