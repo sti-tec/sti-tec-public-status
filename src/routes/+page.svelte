@@ -20,9 +20,7 @@
 						/>
 					</svg>
 					<span>
-						You can now safely access your Outlook and Teams <span class="font-bold"
-							>from web browsers</span
-						>, links in the updates feed below.</span
+						You may now login to your accounts and access all services. Please notify the IT Service Desk if any issues occur, such as email not loading.</span
 					>
 				</div>
 				<div role="alert" class="alert alert-warning">
