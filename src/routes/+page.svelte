@@ -63,7 +63,7 @@
 								<td><div class="badge badge-success">Operational</div></td>
 								<td
 									><div class="badge badge-neutral badge-outline whitespace-nowrap">
-										IT Validation Testing
+										User Validation Testing
 									</div></td
 								>
 							</tr>
@@ -73,7 +73,7 @@
 								<td><div class="badge badge-success">Operational</div></td>
 								<td
 									><div class="badge badge-neutral badge-outline whitespace-nowrap">
-										IT Validation Testing
+										User Validation Testing
 									</div></td
 								>
 							</tr>
@@ -83,7 +83,7 @@
 								<td><div class="badge badge-success">Operational</div></td>
 								<td
 									><div class="badge badge-neutral badge-outline whitespace-nowrap">
-										IT Validation Testing
+										User Validation Testing
 									</div></td
 								>
 							</tr>
@@ -92,7 +92,7 @@
 								<td><div class="badge badge-success">Operational</div></td>
 								<td
 									><div class="badge badge-neutral badge-outline whitespace-nowrap">
-										IT Validation Testing
+										User Validation Testing
 									</div></td
 								>
 							</tr>
