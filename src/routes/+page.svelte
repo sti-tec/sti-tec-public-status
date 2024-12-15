@@ -38,24 +38,24 @@
 							<tr>
 								<td>Teams</td>
 								<td><div class="badge badge-error">Offline</div></td>
-								<td><div class="badge badge-neutral badge-outline whitespace-nowrap">Testing</div></td>
+								<td><div class="badge badge-neutral badge-outline whitespace-nowrap">IT Validation Testing</div></td>
 							</tr>
 							<!-- row 2 -->
 							<tr>
 								<td>Outlook</td>
 								<td><div class="badge badge-error">Offline</div></td>
-								<td><div class="badge badge-neutral badge-outline whitespace-nowrap">Testing</div></td>
+								<td><div class="badge badge-neutral badge-outline whitespace-nowrap">IT Validation Testing</div></td>
 							</tr>
 							<!-- row 3 -->
 							<tr>
 								<td>SharePoint</td>
 								<td><div class="badge badge-error">Offline</div></td>
-								<td><div class="badge badge-neutral badge-outline whitespace-nowrap">Testing</div></td>
+								<td><div class="badge badge-neutral badge-outline whitespace-nowrap">IT Validation Testing</div></td>
 							</tr>
 							<tr>
 								<td>OneDrive</td>
 								<td><div class="badge badge-error">Offline</div></td>
-								<td><div class="badge badge-neutral badge-outline whitespace-nowrap">Testing</div></td>
+								<td><div class="badge badge-neutral badge-outline whitespace-nowrap">IT Validation Testing</div></td>
 							</tr>
 						</tbody>
 					</table>
