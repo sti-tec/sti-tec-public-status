@@ -118,7 +118,7 @@
 						</div>
 						<div class="timeline-end timeline-box">
 							<div class="badge badge-primary badge-outline mr-1">Latest</div><div class="badge badge-neutral badge-outline whitespace-nowrap">14 Dec @ 10:00pm EST</div>
-							Migrated servicees are currently being tested by the IT team and our trusted partners. Please hold and do not utilize the migrated services until testing is complete.
+							Migrated services are currently being tested by the IT team and our trusted partners. Please hold and do not utilize the migrated services until testing is complete.
 						</div>
 						<hr />
 					</li> 
